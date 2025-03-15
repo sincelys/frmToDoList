@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iUK1SUYgyiY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TR\\Desktop\\frmToDoList\\frmToDoList\\frmToDoList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TR\\.nuget\\packages\\system.speech\\9.0.3\\system.speech.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
